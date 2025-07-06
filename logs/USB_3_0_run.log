@@ -1,0 +1,8 @@
+2025-07-07 00:29:09,905 - INFO - Attempt 1: Running CAD tool simulation for IP: USB_3_0
+2025-07-07 00:29:11,911 - ERROR - Attempt 1 failed: Command '['bash', 'ip_tool_simulator.sh']' returned non-zero exit status 1.
+2025-07-07 00:29:14,914 - INFO - Attempt 2: Running CAD tool simulation for IP: USB_3_0
+2025-07-07 00:29:16,920 - ERROR - Attempt 2 failed: Command '['bash', 'ip_tool_simulator.sh']' returned non-zero exit status 1.
+2025-07-07 00:29:19,921 - INFO - Attempt 3: Running CAD tool simulation for IP: USB_3_0
+2025-07-07 00:29:21,927 - ERROR - Attempt 3 failed: Command '['bash', 'ip_tool_simulator.sh']' returned non-zero exit status 1.
+2025-07-07 00:35:34,951 - INFO - Attempt 1: Running CAD tool simulation for IP: USB_3_0
+2025-07-07 00:35:36,959 - INFO - Tool execution successful
